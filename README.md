@@ -10,13 +10,25 @@ You can access the original Colab with this [link](https://colab.research.google
 Packages required:
 * Downloading the datasets:
    * gdown== 4.7.3
-   * csv==1.0
+   * os
+   * zipfile
+   * tqdm
 * Preprocessing and tokenization:
+   * csv==1.0
    * re==2.2.1
    * spacy==3.7.4
-      * spaCy trained pipeline: es_core_news_lg
+      * spaCy trained pipeline: es_core_news_lg (Spanish) & ca_core_news_lg (Catalan)
 * Counting frequency:
    * collections
+   * pandas
+   * numpy
+   * math
+* Creating plots:
+   * nltk
+   * gensim
+   * plt
+   * TSNE
+   * PCA
 
 ### Data attribution
 The Spanish data was obtained using corpora created by the Real Academia Española: [CREA](https://www.rae.es/crea-anotado/) and [CORPES](https://www.rae.es/corpes/). And the Catalan was obtained from Institut d'Estudis Catalans' [CTILC](https://ctilc.iec.cat/scripts/IniPresentacio.asp).
