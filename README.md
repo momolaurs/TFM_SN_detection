@@ -1,10 +1,11 @@
 # README
 
-Code repository for Laura Moset Estruch's final Master's Thesis titled "Using Context Variation Indexes for the Detection of Semantic Neologisms" for the Master in Theoretical and Applied Linguistics in Universitat Pompeu Fabra in 2023-24.
+Code repository for Laura Moset Estruch's final Master's Thesis titled "Using Context Variation Indexes for the Detection of Semantic Neologisms" for the Master in Theoretical and Applied Linguistics at Universitat Pompeu Fabra in 2023-24.
+The final thsis can be accessed using the PDF titled _Moset_2024_Neo_Detection_ or in the [official university repository](https://repositori.upf.edu/items/7114aa7c-a750-4e71-9b8f-b2f6f8b94313)
 
 ### Requirements
 
-The code is written using Python 3.10 in Colab's version published on 2024-02-21. Thus, the author recommends also using Colab for easier and better performance.
+The code is written using Python 3.10 in Colab's version published on 2024-02-21. Thus, the author also recommends using Colab for easier and better performance.
 You can access the original Colab with this [link](https://colab.research.google.com/drive/1IGtG79BJIETc1KqHh1XNQyW8jAcTVk6Z?usp=sharing). Another option would be using the .ipynb file provided. Or you can use the .py files to run the program on your own computer. Below are stated the packages required and the versions used in the original.
 
 Packages required:
